@@ -12,7 +12,7 @@ body {
   justify-content: space-between; /* Logo à esquerda, menu à direita */
   align-items: center; /* Centraliza verticalmente */
   background-color: #EB3C27; /* Cor laranja do cabeçalho */
-  padding: 0 20px;
+  padding: 0px 0px;
   height: 80px; /* Altura do cabeçalho */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sutil sombra */
 }
