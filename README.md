@@ -1,6 +1,6 @@
 # 🎨 IlustranaStudio
 
-![Visualização do Site](https://postimg.cc/RNnS0qMq)
+![Visualização do Site](https://postimg.cc/RNnS0qMq/800x400)
 
 O **IlustranaStudio** é um site mágico e encantador criado para destacar o talento e a criatividade da minha namorada no mundo da ilustração e design. Este projeto é uma celebração de sua arte e uma plataforma para compartilhar suas criações com o mundo de forma profissional e cativante.
 
